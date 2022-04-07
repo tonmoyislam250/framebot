@@ -1,1 +1,1 @@
-bot: ./framebot.py; python -m bot
+worker: python framebot.py
