@@ -1,1 +1,1 @@
-bot: ./framebot.py python -m bot
+bot: ./framebot.py; python -m bot
