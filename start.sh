@@ -1,1 +1,1 @@
-python3 -m framebot.py
+./framebot.py; python -m bot
